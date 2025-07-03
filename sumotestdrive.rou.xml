@@ -1,0 +1,13 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<!--  generated on 2025-07-03 14:54:16 by Eclipse SUMO netedit Version 1.23.1
+ -->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+<!--  Vehicles, persons and containers (sorted by depart)  -->
+<trip id="t_2" depart="0.00" from="-E1" to="-E0.52"/>
+<trip id="t_3" depart="0.00" from="E0" to="E0.51"/>
+<person id="p_0" depart="0.00">
+<personTrip from="-E0.52" to="E0.51"/>
+</person>
+<trip id="t_1" depart="1.00" color="blue" from="-E0" to="E1"/>
+<trip id="t_0" depart="3.00" color="red" from="E0" to="E0.51"/>
+</routes>
